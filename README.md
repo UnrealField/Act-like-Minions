@@ -1,6 +1,6 @@
 # Act like Minions : 멀티플레이어 아케이드 게임
 
-[Presentation](https://docs.google.com/presentation/d/1yy4vKSg2tqE3fInq0QpfPtn2zC8kb0My/edit?usp=drive_link&ouid=104200675899055515528&rtpof=true&sd=true) | [Manual](https://drive.google.com/file/d/13hCkQ2gd4fehT6V3NSOTLKT8A7lDTp9R/view?usp=drive_link) | [Final Report](https://drive.google.com/file/d/1-Wa0xRXa7yCZukoscq98sNfNYrMtctqx/view?usp=drive_link)
+[Presentation](https://docs.google.com/presentation/d/1yy4vKSg2tqE3fInq0QpfPtn2zC8kb0My/edit?usp=drive_link&ouid=104200675899055515528&rtpof=true&sd=true) | [Manual](https://drive.google.com/file/d/13hCkQ2gd4fehT6V3NSOTLKT8A7lDTp9R/view?usp=drive_link) | [Final Report](https://drive.google.com/file/d/1-Wa0xRXa7yCZukoscq98sNfNYrMtctqx/view?usp=drive_link) | [Youtube](https://www.youtube.com/watch?v=bcrkYTrSftY)
 
 <img width="958" alt="메인" src="https://github.com/UnrealField/Act-like-Minions/assets/55550753/4f77d049-e125-4ef9-b220-f4ac09a01760">  
 
